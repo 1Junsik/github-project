@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>
-	[ practice5 ]
+	[ practice5 Hello ]
 </h1>
 
 <c:if test="${sessionScope.loginId != null}">
