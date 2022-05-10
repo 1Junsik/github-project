@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>
-	[ practice5 Hello ]
+	[ practice5 Spring Project ]
 </h1>
 
 <c:if test="${sessionScope.loginId != null}">
