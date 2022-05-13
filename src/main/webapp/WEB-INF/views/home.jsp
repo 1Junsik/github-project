@@ -18,7 +18,7 @@
 
 <c:if test="${sessionScope.loginId == null}">
 	<p><a href="member/join">회원가입</a></p>
-	<p><a href="member/login">로그인</a></p>
+	<p><a href="member/login">로그인1</a></p>
 </c:if>
 <p><a href="board/list">게시판</a></p>
 
